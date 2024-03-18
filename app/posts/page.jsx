@@ -7,8 +7,9 @@ export default function PostsPage() {
       <div
         style={{
           display: "flex",
+          flexDirection: "column",
           justifyContent: "center",
-          alignContent: "center",
+          alignItems: "center",
         }}
       >
         <h1>Posts</h1>
