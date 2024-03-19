@@ -16,7 +16,7 @@ export default function RootLayout({ children }) {
         <nav
           style={{
             with: "100vw",
-            background: "teal",
+            background: "orange",
             fontSize: "60px",
             display: "flex",
             justifyContent: "center",
